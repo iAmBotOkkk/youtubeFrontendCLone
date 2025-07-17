@@ -4,7 +4,7 @@ import Input from './Input'
 
 const Appbar = () => {
   return (
-    <div className='flex justify-between'>
+    <div className='flex justify-between mt-3'>
         <div className='ml-15'> 
             <img className = "w-25 h-15"src="YoutubeLogo.jpg" alt="" />
         </div>
